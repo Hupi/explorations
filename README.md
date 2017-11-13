@@ -1,3 +1,3 @@
 # Fangjie's new world
 
-*Hupi says mama.*
+*mostly data explorations*
