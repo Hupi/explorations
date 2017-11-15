@@ -1,3 +1,3 @@
 # 
 
-*mostly data explorations*
+*mostly data explorations and ds learning
